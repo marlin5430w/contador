@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     // Defina a data de início aqui (Ano, Mês - 1, Dia)
     // O mês é baseado em zero (janeiro é 0, fevereiro é 1, etc.)
-    const dataInicio = new Date(2023, 0, 1); // Exemplo: 1º de janeiro de 2023
+    const dataInicio = new Date(2023, 10, 14); 
 
     function atualizarContador() {
         const dataAtual = new Date();
